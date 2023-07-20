@@ -1,0 +1,33 @@
+div{
+    background-color : gray;
+    color : white;
+    width : 150px;
+    height : 150px;
+    /* padding-left: 50px;
+    padding-top: 50px; */
+}
+#bbox{
+    background-color : rgb(218, 218, 218);
+    /* color : white; */
+    width : 450px;
+    height : 200px;
+    border : 1px solid #000;
+    position: relative;
+    /* padding-left: 50px;
+    padding-top: 50px; */
+}
+#b1{
+    border : 1px solid #000;
+    position: absolute; 
+    left: 20px;
+    top: 20px;
+}
+#b2{
+    background-color : rgb(218, 218, 218);
+    color: #000;
+    width : 240px;
+    height : 150px;
+    position: absolute; 
+    left: 190px;
+    top: 20px;
+}
